@@ -7,9 +7,11 @@
 - Yarn ou NPM
 
 #### Executar com Yarn:
+    yarn
     yarn start
 
 #### Executar com NPM:
+    npm install
     npm start
 
 ### Rotas
