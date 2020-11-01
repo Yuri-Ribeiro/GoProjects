@@ -2,6 +2,10 @@
 
 #### Aplicação back-end para armazenar projetos e tarefas com Express.
 
+#### Requesitos:
+- Node.js
+- Yarn ou NPM
+
 #### Executar com Yarn:
     yarn start
 
